@@ -19,6 +19,6 @@ public class KalenderTest {
 	
 	
 	public static void main(String[] args) {
-		String c = "halla på deg din nisse";
+		String c = "halla på deg din";
 }
 >>>>>>> branch 'master' of https://github.com/bendiw/calendar.git
